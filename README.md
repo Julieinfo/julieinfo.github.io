@@ -1,6 +1,6 @@
 # 🌐 Portfolio — Julie de Castro
 
-> Développeuse Logiciel & Web · Étudiante en Licence 3 Informatique · Disponible en alternance dès Septembre 2027
+> Développeuse Web · Étudiante en Licence 3 Informatique · Disponible en alternance dès Septembre 2027
 
 🔗 **[Voir le portfolio en ligne](https://julieinfo.github.io)**
 
@@ -8,7 +8,7 @@
 
 ## 👩‍💻 À propos
 
-Étudiante en Licence 3 Informatique à l'UPPA (Université de Pau et des Pays de l'Adour), passionnée par le développement d'applications web et mobiles. Je recherche une alternance en développement logiciel ou web pour contribuer à des projets concrets au sein d'une équipe technique.
+Étudiante en Licence 3 Informatique à l'UPPA (Université de Pau et des Pays de l'Adour), passionnée par le développement d'applications web et mobiles. Je recherche une alternance en développement web pour contribuer à des projets concrets au sein d'une équipe technique.
 
 ---
 
@@ -28,7 +28,7 @@ julieinfo.github.io/
 ├── style.css               # Styles et animations
 ├── script.js               # Effets interactifs
 ├── profile.jpg             # Photo de profil
-├── cv_julie_de_castro.pdf  # CV téléchargeable
+├── CV.pdf                  # CV téléchargeable
 └── README.md               # Ce fichier
 ```
 
@@ -38,7 +38,7 @@ julieinfo.github.io/
 
 | Projet | Type | Technologies |
 |--------|------|-------------|
-| Suite de 5 Applications Mobiles | Personnel | Dart, Flutter, C#, .NET |
+| Suite de 3 Applications Mobiles | Personnel | Dart, Flutter |
 | Site Web Personnel | Personnel | HTML5, CSS3, JavaScript |
 | Plateforme Immobilière en Ligne | Académique | HTML5, CSS3, JavaScript |
 | Plateforme Web E-Santé | Académique | HTML5/XHTML, CSS3, JavaScript |
@@ -48,14 +48,13 @@ julieinfo.github.io/
 
 ## 📚 Formation
 
-- 🎓 **Licence Informatique (L3)** — UPPA, Université de Pau *(2023 – 2027)*
-- 🎓 **Cycle Préparatoire Ingénieur** — Cy-Tech, Pau *(2021 – 2023)*
-- 🎓 **Baccalauréat Général, Mention Bien** — Lycée Jean Dupuy *(2021)*
+- 🎓 **Licence Informatique (L3)** - UPPA, Université de Pau *(2023 - 2027)*
+- 🎓 **Cycle Préparatoire Ingénieur** - Cy-Tech, Pau *(2021 - 2023)*
+- 🎓 **Baccalauréat Général** - Lycée Jean Dupuy *(2021)*
 
 ---
 
 ## 📬 Contact
 
 - 📧 [juliedecastro2003@gmail.com](mailto:juliedecastro2003@gmail.com)
-- 💼 [linkedin.com/in/juliedecastro](https://linkedin.com/in/juliedecastro)
 - 🐙 [github.com/Julieinfo](https://github.com/Julieinfo)
